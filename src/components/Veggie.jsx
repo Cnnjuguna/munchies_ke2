@@ -71,7 +71,7 @@ const Card = styled.div`
     z-index: 10;
     left: 50%;
     bottom: 0%;
-    color: '#fff';
+    color: white;
     width: 100%;
     text-align: center;
     font-weight: 600;
